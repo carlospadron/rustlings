@@ -8,8 +8,6 @@
 // Execute `rustlings hint traits3` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
-
 //i'd have preferred to modify the structs to take a parameter and modify the implementation
 // of the trait to use the parameter
 pub trait Licensed {
